@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-laravel-starter-ffd
+owner: syrusakbary
+package: .
+scaling:
+  mode: single_concurrency
